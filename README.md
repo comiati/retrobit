@@ -2,6 +2,8 @@
 
 This is a mix of retro game console with new technologies.
 
+![RetroBit Board](https://github.com/ftraple/retrobit/blob/master/doc/RetrobitWhite.jpg)
+
 ## Hardware
 
 This is ARM9 processor running at 454Mhz with enough power to run linux and still in handsolder friendly TQFP package, which allow hobby DIY approach. RetroBit is even on 2 layer PCB and running at full speed.
